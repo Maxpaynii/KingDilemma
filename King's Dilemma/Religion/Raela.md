@@ -24,5 +24,5 @@
 **Divine Skill**: Society **OR** Diplomacy **OR** Crafting
 **Favored Weapon**: (**ANY**) Crossbow **OR** (**ANY**) Bow
 **Domains**: Cities, Earth, Travel, Wealth
-**Cleric Spells**: 1st: Illusory Object **OR** Ant Haul, 3rd: Cozy Cabin, 4th: Creation, 7th: Magnificent Mansion, 9th: Resplendent Mansion 
+**Cleric Spells**: 1st: Illusory Object **OR** Ant Haul, 3rd: Cozy Cabin, 4th: Creation, 7th: Magnificent Mansion, 8th: Power Word Stun, 9th: Resplendent Mansion 
 

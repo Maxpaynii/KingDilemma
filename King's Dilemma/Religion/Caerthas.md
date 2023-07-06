@@ -26,4 +26,4 @@
 **Divine Skill**: Diplomacy **OR** Intimidation 
 **Favored Weapon**: (**ANY**) Axes 
 **Domains**: Death, Truth, Pain, Zeal
-**Cleric Spells**: 1st: 
+**Cleric Spells**: 1st: Command **OR** True Strike, 2nd: Enlarge **OR** Death Knell, 3r: Mind Reading, 4th: Discern Lies **OR** Seal fate, 5th: Banishment, 6th: Zealous Conviction, 7th: Finger of Death, 8th: Power Word Stun, 9th: Massacre

@@ -27,7 +27,7 @@
 **Divine Skill**: Medecine **OR** Nature
 **Favored Weapon**: Greatsword **OR** Longsword
 **Domains**: Confidence, Perfection, Protection, Zeal
-**Cleric Spells**: 1st: True Strike **OR** Soothe, 3rd: Dispel Magic, 4th: Stoneskin, 5th: Chromatic Wall, 6th: Wall of Force, 9th: Prismatic Sphere
+**Cleric Spells**: 1st: True Strike **OR** Soothe, 3rd: Dispel Magic, 4th: Stoneskin, 5th: Chromatic Wall, 6th: Wall of Force, 7th: Force Cage, 9th: Prismatic Sphere **OR** Overwhelming Presence
 
 
 

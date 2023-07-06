@@ -26,4 +26,4 @@
 **Divine Skill**: Nature **OR** Society **OR** Survival
 **Favored Weapon**: (**ANY**) Hammer
 **Domains**: Freedom, Indulgence, Air, Nature
-**Cleric Spells**: 1st: 
+**Cleric Spells**: 1st: Dancing Lights **OR** Summon Animal, 2nd: Create Food **OR** Speak with Animals, 3rd: Mad Monkeys, 4th: Private Sanctum, 5th: Cloak of Colors, 6th: Baleful Polymorph, 8th: Dream Council 

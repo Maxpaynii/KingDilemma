@@ -26,4 +26,4 @@
 **Divine Skill**: Medecine **OR** Acrobatics 
 **Favored Weapon**: (**ANY**) Flail 
 **Domains**: Family, Passion, Fate, Healing 
-**Cleric Spells**: 1st: 
+**Cleric Spells**: 1st: Heal **OR** Shield, 2nd: Mirror Image **OR** Gentle Repose, 4th: Telepathy **OR** Talking Corpse, 5th: Sending, 7th: Duplicate Foe, 9th: Shapechange

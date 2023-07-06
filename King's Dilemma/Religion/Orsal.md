@@ -24,4 +24,4 @@
 **Divine Skill**: Athletics
 **Favored Weapon**: Falchion **OR** Scimitar
 **Domains**: Ambition, Fire, Might, Sun
-**Cleric Spells**: 1st: Burning Hands, 3rd: Fireball, 4th: Wall of Fire, 6th: Fire Seeds, 7th: Fiery Body, 9th: Meteor Swarn
+**Cleric Spells**: 1st: Burning Hands, 3rd: Fireball, 4th: Wall of Fire, 6th: Fire Seeds, 7th: Fiery Body, 8th: Moment of Renewal, 9th: Meteor Swarm
